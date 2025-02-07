@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ceddy1274
 - 👀 I’m interested in data analytics and software engineering
-- 🌱 I’m currently learning Computer Science at the University of Arkansas and praticing some SQL on my own
+- 🌱 I’m currently studying Computer Science at the University of Arkansas
 
 
 <!---
